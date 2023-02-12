@@ -6,7 +6,7 @@
   - ### Test Recall: 0.6742857142857143
   - ### Test ROC AUC Score: 0.6630774365821094
 
-### 12 Machine Learning Model:
+* ### 12 Machine Learning Model:
 #### 1. Random Forest Classifier
 #### 2. Support Vector Classifier
 #### 3. Logistic Regression
