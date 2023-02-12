@@ -6,7 +6,7 @@
   - ### Test Recall: 0.6742857142857143
   - ### Test ROC AUC Score: 0.6630774365821094
 
-![1-Cover](https://user-images.githubusercontent.com/91950433/218286655-12af551e-4920-475b-92f6-1009599c63b7.jpg)
+![Cover](https://user-images.githubusercontent.com/91950433/218286834-2ca4744f-18ae-430c-a74e-0c1e2a1d07ac.png)
 
 * ### 12 Machine Learning Model:
   #### 1. Random Forest Classifier
